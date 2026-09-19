@@ -56,3 +56,25 @@ The repository includes SQL queries designed to answer critical business questio
 
 
 ## 📁 Repository Structure
+---
+
+## 💻 How to Run the Project
+
+1. **Prerequisites:**
+   * MySQL Server (v8.0+ recommended)
+   * MySQL Workbench or any preferred SQL client
+
+2. **Execution Steps:**
+   * Clone this repository:
+     ```bash
+     git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+     ```
+   * Open `customer_churn_analysis.sql` in MySQL Workbench.
+   * Run the script sequentially or block-by-block to build the schema, populate data, run cleaning updates, and execute analytical queries.
+
+---
+
+## 📝 Technologies Used
+* **Database Management System:** MySQL
+* **Tools:** MySQL Workbench
+* **Language:** SQL (DDL, DML, Aggregation, Subqueries, Joins, Windowing & Case Expressions)
