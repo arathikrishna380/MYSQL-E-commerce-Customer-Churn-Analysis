@@ -65,10 +65,7 @@ The repository includes SQL queries designed to answer critical business questio
    * MySQL Workbench or any preferred SQL client
 
 2. **Execution Steps:**
-   * Clone this repository:
-     ```bash
-     git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-     ```
+   * Clone the repository:
    * Open `customer_churn_analysis.sql` in MySQL Workbench.
    * Run the script sequentially or block-by-block to build the schema, populate data, run cleaning updates, and execute analytical queries.
 
